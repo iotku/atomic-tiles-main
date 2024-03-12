@@ -1,5 +1,5 @@
 # image will be published to ghcr.io/<user>/<name>
-name: atomic-tiles
+name: atomic-tiles-main
 # description will be included in the image's metadata
 description: i3wm/sway image
 
