@@ -30,7 +30,6 @@ modules:
         - fcitx5-lua
         - fcitx5-mozc # Japanese IME Module
         - fcitx5-qt
-        - fcitx5-qt-module
         - feh
         - terminus-fonts
         - fontawesome-fonts
